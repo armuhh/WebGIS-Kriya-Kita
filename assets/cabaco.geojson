@@ -1,0 +1,4 @@
+{
+	"features": [
+		{ "type": "Feature", "properties": { "Name": "Cabaco" }, "geometry": { "type": "Point", "coordinates": [ 107.704043218000038, -6.921591148999934, 0.0 ] } }]
+}
